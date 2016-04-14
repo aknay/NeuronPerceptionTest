@@ -1,0 +1,48 @@
+﻿NeuronDataReader Plug-in b15 Release Notes
+------------------------------------------
+Release date: 27.1.2016
+Version: beta 15
+
+NeuronDataReader is a plugin used to read skeleton data from server by TCP/IP to save work.
+
+There are sections for the following areas:
+	SDK features
+	Changes in functionality
+	Deprecated/obsolete functionality
+	Closed issues
+	Known issues
+
+SDK Features
+------------
+* Receive and parse the BVH binary data stream and notify by specifying the callback function.
+* Receive and parse the Calc binary data stream and notify by specifying the callback function.
+* Receiving and sync data from multi-pc
+
+Changes in Functionality
+------------------------
+
+
+Deprecated/Obsolete Functionality
+---------------------------------
+
+
+Closed Issues
+-------------
+
+
+
+Troubleshooting
+---------------
+
+
+Closed Issues
+-------------
+
+
+
+
+Beta 10 - Known Issues
+---------------------
+
+
+If any bugs or problem please contact us at: contact@neuronmocap.com

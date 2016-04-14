@@ -1,0 +1,12 @@
+#ifndef NEURONLIB_GLOBAL_H
+#define NEURONLIB_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(NEURONLIB_LIBRARY)
+#  define NEURONLIBSHARED_EXPORT Q_DECL_EXPORT
+#else
+#  define NEURONLIBSHARED_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // NEURONLIB_GLOBAL_H
